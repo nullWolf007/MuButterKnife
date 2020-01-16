@@ -1,0 +1,2 @@
+include ':app', ':mubutterknife', ':mubutterknife-annotations', ':mubutterknife-compiler'
+rootProject.name='MuButterKnifeDemo'
